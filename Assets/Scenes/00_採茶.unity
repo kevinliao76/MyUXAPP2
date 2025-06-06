@@ -521,7 +521,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: ece222dec972b2e4182dc83e94833d60, type: 3}
+    m_Font: {fileID: 12800000, guid: fb3811afd6a7a9845be582bf6d2a817d, type: 3}
     m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
@@ -533,7 +533,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: myApp
+  m_Text: "\u63A1\u8336\u8449"
 --- !u!222 &202134130
 CanvasRenderer:
   m_ObjectHideFlags: 0
